@@ -58,7 +58,7 @@ e hoje se conecta ao mundo de **Dados, Analytics e Inteligência Artificial Gene
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danieltobiassilva/)  
 - 📊 [Portfólio de Projetos](https://sites.google.com/view/danielt-silva/meu-portfolio)  
-- 📧 danielt.silva@email.com  
+- 📧 dts.daniel@gmail.com  
 
 ---
 
