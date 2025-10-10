@@ -65,6 +65,7 @@ e hoje se conecta ao mundo de **Dados, Analytics e Inteligência Artificial Gene
 ✨ Sempre aberto a desafios que me permitam **aprender, ensinar e crescer com dados e tecnologia**!
 
 <br>
-
+<p>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4niel-ia&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=D4niel-ia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
