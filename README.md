@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Daniel Tobias Silva  
 
 🚀 Profissional de Tecnologia com foco em **Dados, BI e Automação**.  
-Minha jornada começou no **Suporte Técnico**, cresceu em **Redes e Segurança da Informação**  
+Minha jornada começou no **Suporte Técnico**, cresceu nas formações superiores em **Redes e Segurança da Informação**  
 e hoje se conecta ao mundo de **Dados, Analytics e Inteligência Artificial Generativa**.  
 
 ---
