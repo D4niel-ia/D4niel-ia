@@ -1,19 +1,25 @@
-# 👋 Olá, eu sou o Daniel Tobias Silva  
+👋 Olá, eu sou o Daniel — Profissional de Segurança da Informação em formação
 
-🚀 Profissional de Tecnologia com foco em **Dados, BI e Automação**.  
-Minha jornada começou no **Suporte Técnico**, cresceu nas formações superiores em **Redes e Segurança da Informação**  
-e hoje se conecta ao mundo de **Dados, Analytics e Inteligência Artificial Generativa**.  
+Sou profissional de Tecnologia com formação em Redes, pós-graduações em Segurança da Informação e atuante na construção de um portfólio focado em Cybersecurity, Blue Team, Cloud Security, IAM, SIEM e automações com Python.
 
----
+Este GitHub reúne meus estudos e projetos práticos, incluindo:
 
-## 📌 Sobre mim
-- 🔍 Apaixonado por transformar **dados em insights acionáveis**  
-- 🛠️ Experiência com **Power BI, SQL, Python, Excel, VBA, DAX e ETL**  
-- 🤝 Habilidade em **resolver problemas** e colaborar com diferentes áreas  
-- 🤖 Explorando **IA Generativa (ChatGPT, Copilot, Gemini)** para acelerar análises e automações  
-- 📊 Criando **dashboards, relatórios e automações** que simplificam decisões  
+🔐 Projetos de Segurança
 
----
+* Análise e correlação de logs (Linux + SIEM)
+* Dashboard de monitoramento SOC (Power BI)
+* Playbooks de resposta a incidentes
+* Scripts de automação com Python
+* Laboratórios de Cloud Security (Azure / GCP)
+
+🛠️ Tecnologias & Ferramentas
+Python • Linux • Windows Server • Azure • GCP • SIEM (Sentinel/Splunk) • SQL • Power BI • Git • Redes • Wireshark
+
+🌱 Atualmente aprendendo:
+Cybersecurity (Google), Cloud Computing, Threat Detection, IAM, automações com Python
+
+📌 Objetivo:
+Atuar como Analista de Segurança / SOC Analyst aplicando análise de logs, investigação, governança e proteção de dados.
 
 ## 🗂️ Linha do Tempo Profissional
 
@@ -25,8 +31,7 @@ e hoje se conecta ao mundo de **Dados, Analytics e Inteligência Artificial Gene
   Gestão de chamados complexos, otimização de processos e foco em melhoria contínua.  
   Comecei a aplicar automações com **Excel/VBA e scripts** para agilizar tarefas.  
 
-- 📊 **2022–Atual | Dados & Business Intelligence**  
-  Transição oficial para **Análise de Dados**.  
+- 📊 **2022–2023 | Dados & Business Intelligence**  
   Desenvolvimento de projetos reais com **Power BI, SQL, Python e DataOps**.  
   Portfólio com projetos em datasets da Netflix, churn analysis, vendas e outros.  
   Exploração de **IA Generativa** para enriquecer análises e aumentar produtividade.  
@@ -43,6 +48,10 @@ e hoje se conecta ao mundo de **Dados, Analytics e Inteligência Artificial Gene
 
 ## 🏅 Certificações & Treinamentos Relevantes
 
+- Google Cybersecurity
+- Google Cloud Cybersecurity
+- IBM DevOps, Cloud, and Agile Foundations
+- Microsoft Azure Data Fundamentals DP-900 Exam Prep
 - Data Mundo – **Analista de Dados** (Power BI, SQL, Tableau, Figma, ETL, OKR, Gamificação)  
 - Alura + Google – **Imersão IA** (Google Gemini, Chatbots, IA Generativa)  
 - Hashtag Treinamentos – **Jornada Python** (Análise de Dados, Automação, IA)  
@@ -57,12 +66,11 @@ e hoje se conecta ao mundo de **Dados, Analytics e Inteligência Artificial Gene
 ## 🌍 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danieltobiassilva/)  
-- 📊 [Portfólio de Projetos](https://sites.google.com/view/danielt-silva/meu-portfolio)  
 - 📧 dts.daniel@gmail.com  
 
 ---
 
-✨ Sempre aberto a desafios que me permitam **aprender, ensinar e crescer com dados e tecnologia**!
+✨ Sempre aberto a desafios que me permitam **aprender, ensinar e crescer com segurança e tecnologia**!
 
 <br>
 <p>
